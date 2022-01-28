@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tauche-t/react-tracker/static/js/main.7ce16928.js",
-    "index.html": "/tauche-t/react-tracker/index.html",
-    "main.7ce16928.js.map": "/tauche-t/react-tracker/static/js/main.7ce16928.js.map"
+    "main.js": "/react-tracker/static/js/main.5bed8208.js",
+    "index.html": "/react-tracker/index.html",
+    "main.5bed8208.js.map": "/react-tracker/static/js/main.5bed8208.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ce16928.js"
+    "static/js/main.5bed8208.js"
   ]
 }
